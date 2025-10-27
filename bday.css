@@ -67,7 +67,7 @@ body {
 
 .text {
   position: absolute;
-  font-family: "Satisfy", cursive;
+  font-family: "Indie Family", cursive;
   font-size: 11px;
   text-align: center;
   line-height: 12px;
@@ -245,4 +245,5 @@ body {
     transform: scaleX(0.85);
   }
 }
+
 
